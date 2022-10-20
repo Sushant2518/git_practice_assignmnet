@@ -1,5 +1,5 @@
    let rev="";
-    for(let i=N-1; i>=0; i++){
+    for(let i=N-1; i>=0; i--){
         rev=rev+str[i];
     }
    if(str==rev){

@@ -1,4 +1,4 @@
- let counter=1;
+ let counter=0;
     for(let i=1; i<=num; i++){
         if(num%i==0){
         counter++;
